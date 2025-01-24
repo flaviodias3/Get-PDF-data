@@ -2,12 +2,12 @@
 
 This program extracts data from a PDF report using OCR (Optical Character Recognition) and organizes it into a structured format using pandas DataFrame. The program utilizes the following libraries:
 
-** pandas for data manipulation **
-** fitz (PyMuPDF) for handling PDF files
-** pytesseract for OCR
-PIL (Pillow) for image processing
-io and re for input/output and regular expressions
-Prerequisites
+**pandas for data manipulation**
+**fitz (PyMuPDF) for handling PDF files**
+**pytesseract for OCR**
+**PIL (Pillow) for image processing**
+**io and re for input/output and regular expressions**
+ Prerequisites
 Ensure you have the following installed:
 
 Python 3.x
